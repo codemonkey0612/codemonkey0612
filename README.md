@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prince+Kitty;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
 </h1>
 <br />
 <h3>🥇 Thanks for visiting! Please don't forgot giving 🌟star🌟 and following 🤩 </h3>
@@ -8,7 +8,7 @@
 <div>
 
   <a href="#">
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=prince777-k&repo=github-visitors-badge&countColor=%237B1E7A" />
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=codemonkey0612&repo=github-visitors-badge&countColor=%237B1E7A" />
   </a>
 </div>
 <h2>💻&nbspSkills✔</h2>
@@ -132,21 +132,21 @@
 <br/>
 <h2>✨My github's stat✨</h2>
 <p align="center">
-  <a href="https://github.com/prince777-k/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=prince777-k&show_icons=true&theme=radical&card_width=350" />
+  <a href="https://github.com/codemonkey0612/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=codemonkey0612&show_icons=true&theme=radical&card_width=350" />
   </a>
-  <a href="https://github.com/prince777-k/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=prince777-k&layout=compact&langs_count=8&card_width=350&theme=radical" />
+  <a href="https://github.com/codemonkey0612/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=codemonkey0612&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince777-k&&theme=tokyonight" alt=""/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemonkey0612&&theme=tokyonight" alt=""/>
 </p>
 
 <!-- <div align="center">
   <h3>🧐 My Contributions ✨✨</h3>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prince777-k/prince777-k/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codemonkey0612/codemonkey0612/output/github-contribution-grid-snake.svg" />
   
 </div> -->
 
