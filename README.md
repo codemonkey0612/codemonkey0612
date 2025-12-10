@@ -8,19 +8,14 @@
 </a><br>
 
 <h1 align="center"> 
-  About Me
+  <a href="#--about-me--">
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width="35" height="35">
+  </a>
+  Full-Stack | Blockchain | AI | Mobile Engineer
   <a href="#--about-me--">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width="35" height="35">
   </a>
 </h1>
-
-<h3 align="center">
-💻 I'm a Senior Software Engineer | Full-Stack<br>
-⏳ Proficient Front-end & Back-end<br>
-🚀 Always ready to collaborate for Dev Experiments<br>
-🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>
-⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
-</h3>
 
 <br>
 <h1 align="center" style="border-bottom:none;">Skills</h1>
@@ -194,23 +189,6 @@
 
 ###
 
-<h2 align="center">Profile Views</h2>
-
-<p align="center">
-  **Counting of visitors to this page in this section started from Septempber 19, 2022** 👀
-</p>
-
-<p align="center">
-  <img src="https://count.getloli.com/@santa512?name=santa512&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
-</p>
-
-<br clear="both">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Santa512/Santa512/output/snake.svg" alt="Snake animation" />
-</p>
-
-###
 
 <a href="#">
   <img 
