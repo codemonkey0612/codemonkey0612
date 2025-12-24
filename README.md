@@ -11,14 +11,14 @@
   <a href="#--about-me--">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width="35" height="35">
   </a>
-  Full-Stack | Blockchain | AI | Mobile Engineer
+  フルスタック | ブロックチェーン | AI | モバイルエンジニア
   <a href="#--about-me--">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width="35" height="35">
   </a>
 </h1>
 
 <br>
-<h1 align="center" style="border-bottom:none;">Skills</h1>
+<h1 align="center" style="border-bottom:none;">スキル</h1>
 <br>
 
 <div align="center">
@@ -240,7 +240,7 @@
 
 ###
 
-<h2 align="center">❤️ Let's get connected:</h2>
+<h2 align="center">❤️ つながりましょう:</h2>
 
 <div align="center">
   <a href="https://discord.com/users/bugsmile90"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
